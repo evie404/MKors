@@ -22,3 +22,5 @@ public/assets
 vendor/bundler_gems
 config/database.yml
 config/config.yml
+tmp/*
+tmp/cache/assets/development/sprockets/*
