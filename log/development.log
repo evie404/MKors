@@ -57611,3 +57611,1203 @@ Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0
 
 
 Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:15:28 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.7ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (18.5ms)
+  Rendered main/_footer.html (0.3ms)
+Completed 200 OK in 23ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:17 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/index.html.haml within layouts/application (15.7ms)
+  Rendered main/_footer.html (0.0ms)
+Completed 200 OK in 19ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (15.8ms)
+  Rendered main/_footer.html (0.0ms)
+Completed 200 OK in 19ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (15.7ms)
+  Rendered main/_footer.html (0.0ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:22 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (17.4ms)
+  Rendered main/_footer.html (0.3ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:29 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (15.9ms)
+  Rendered main/_footer.html (0.3ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:39 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.3ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (15.7ms)
+  Rendered main/_footer.html (0.3ms)
+Completed 200 OK in 19ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:18:46 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+Processing by MainController#index as HTML
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.5ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/_card.html.haml (0.4ms)
+  Rendered main/index.html.haml within layouts/application (18.0ms)
+  Rendered main/_footer.html (0.3ms)
+Completed 200 OK in 22ms (Views: 21.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/main.js?body=1" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/panels.js?body=1" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202012(0).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/logo.jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(5).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(1).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/front/mks12.jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/front/mkf13.jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202011(0).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/front/mkf11.jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(4).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(2).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Fall%202013(3).jpg" for 127.0.0.1 at 2013-03-10 23:19:08 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Pre-fall%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/mkpf13.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/mks13.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Michael%20Kors%20Spring%202013(0).jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/lvf10.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Louis%20Vuitton%20Fall%202010.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/cs10.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Chloe%20Spring%202010.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Celine%20Pre-fall%202011.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Nicole%20Miller%20Spring%202013.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/cdpf12.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/ckf12.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Calvin%20Klein%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/hs09.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+Started GET "/assets/cards/front/cds13.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Halston%20Spring%202009.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/cpf11.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/nms13.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Pre-fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/cdf12.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/front/mmmf12.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Christian%20Dior%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
+
+
+Started GET "/assets/cards/back/Maison%20Martin%20Margiela%20Fall%202012.jpg" for 127.0.0.1 at 2013-03-10 23:19:09 -0700
