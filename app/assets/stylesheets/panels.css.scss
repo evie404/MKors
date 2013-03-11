@@ -1,7 +1,33 @@
 $margin: 100px;
 
- .container {
-    float: left;
+#logo{
+  width: 500px;
+  margin-left: 250px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.main-container{
+  margin: 0 auto;
+  width: $margin * 10;
+  .left, .right{
+    width: $margin * 5;
+  }
+}
+.left {
+  float: left;
+  .card-container {
+      float: left;
+  }
+}
+.right {
+  float: right;
+   .card-container {
+      float: right;
+  } 
+}
+ .card-container {
+    
       width: $margin;
       height: $margin * 1.5;
       position: relative;

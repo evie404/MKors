@@ -3,6 +3,17 @@
 @import "panels";
 /*@import "twitter/bootstrap";*/
 
-body{
-  padding-top: 50px;
+// body{
+//   padding-top: 50px;
+// }
+
+.group:before, .group:after {
+   content: "";
+   display: table;
+}
+.group:after {
+   clear: both;
+}
+.group {
+   zoom: 1; /* IE6&7 */
 }
