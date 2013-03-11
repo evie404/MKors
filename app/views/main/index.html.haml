@@ -5,6 +5,7 @@
 .main-container
   %img#logo{src: asset_path("logo.jpg")}
   .left.group
+    .big-image#first-big
     - add_card(cards, "mkf11", "Michael Kors Fall 2011(0)", 1)
     - (0..5).each do |i|
       - add_card(cards, "mkf13", "Michael Kors Fall 2013(#{i})", i+2)
@@ -14,10 +15,12 @@
     - counter = 0
     - while cards.length > 0
       - counter += 1
-      = render_card('','','') if counter == 4
+      - if counter == 4
+        %section.card-container{empty: 'empty'}
       = render_card_from_array(cards)
 
   .right.group
+    .big-image#second-big
     - counter = 0
     - add_card(cards_other, "hs09", "Halston Spring 2009", counter += 1)
     - add_card(cards_other, "ckf12", "Calvin Klein Fall 2012", counter += 1)
@@ -27,10 +30,13 @@
     - add_card(cards_other, "cdpf12", "Christian Dior Pre-fall 2012", counter += 1)
     - add_card(cards_other, "cdf12", "Christian Dior Fall 2012", counter += 1)
     - add_card(cards_other, "cds13", "Christian Dior Spring 2013", counter += 1)
-    - add_card(cards_other, "cs10", "Chloé Spring 2010", counter += 1)
-    - add_card(cards_other, "cpf11", "Céline Pre-fall 2011", counter += 1)
+    - add_card(cards_other, "cs10", "Chloe Spring 2010", counter += 1)
+    - add_card(cards_other, "cpf11", "Celine Pre-fall 2011", counter += 1)
     - counter = 0
     - while cards_other.length > 0
       - counter += 1
-      = render_card('','','') if counter == 4
+      - if counter == 4
+        %section.card-container{empty: 'empty'}
+
       = render_card_from_array(cards_other)
+#overlay

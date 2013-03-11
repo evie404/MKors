@@ -3,8 +3,12 @@ module MainHelper
     cards << [front, back, counter]
   end
 
-  def render_card_from_array(cards)
-    card = cards.shuffle!.pop
+  def render_card_from_array(cards, shuffle = true)
+    if shuffle
+      card = cards.shuffle!.pop
+    else
+      card = cards.pop
+    end
     render_card(card[0],card[1],card[2])
   end
 
