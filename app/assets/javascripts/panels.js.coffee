@@ -10,10 +10,12 @@ flip = (el) ->
 
   if flipped == 2
     if the_counter == el.children().children('.front').attr('counter')
-      console.log 'same'
+      alert 'same'
     else
-      console.log 'not same'
+      alert 'not same'
     the_counter = 0
+    $('.flipped').removeClass('flipped')
+    flipped = 0
 
   if flipped == 1
     the_counter = el.children().children('.front').attr('counter')
@@ -22,7 +24,6 @@ jQuery ->
   $('.card-container').click () ->
     $(this).children('.card').toggleClass('flipped')
     $(this).toggleClass('flipped')
-    # sleep(1000)
     flip($(this))
     # window.setTimeout(flip($(this)),1000)
     

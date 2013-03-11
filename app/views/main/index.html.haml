@@ -1,25 +1,36 @@
 - cards = []
 - cards_other = []
 
+
 .main-container
   %img#logo{src: asset_path("logo.jpg")}
   .left.group
-    = render_card("mkf11", "Michael Kors Fall 2011(0)", 1)
+    - add_card(cards, "mkf11", "Michael Kors Fall 2011(0)", 1)
     - (0..5).each do |i|
-      = render_card("mkf13", "Michael Kors Fall 2013(#{i})", i+2)
-    = render_card("mkpf13", "Michael Kors Pre-fall 2013(0)", 8)
-    = render_card("mks12", "Michael Kors Spring 2012(0)", 9)
-    = render_card("mks13", "Michael Kors Spring 2013(0)", 10)
+      - add_card(cards, "mkf13", "Michael Kors Fall 2013(#{i})", i+2)
+    - add_card(cards, "mkpf13", "Michael Kors Pre-fall 2013(0)", 8)
+    - add_card(cards, "mks12", "Michael Kors Spring 2012(0)", 9)
+    - add_card(cards, "mks13", "Michael Kors Spring 2013(0)", 10)
+    - counter = 0
+    - while cards.length > 0
+      - counter += 1
+      = render_card('','','') if counter == 4
+      = render_card_from_array(cards)
 
   .right.group
     - counter = 0
-    = render_card("hs09", "Halston Spring 2009", counter += 1)
-    = render_card("ckf12", "Calvin Klein Fall 2012", counter += 1)
-    = render_card("nms13", "Nicole Miller Spring 2013", counter += 1)
-    = render_card("mmmf12", "Maison Martin Margiela Fall 2012", counter += 1)
-    = render_card("lvf10", "Louis Vuitton Fall 2010", counter += 1)
-    = render_card("cdpf12", "Christian Dior Pre-fall 2012", counter += 1)
-    = render_card("cdf12", "Christian Dior Fall 2012", counter += 1)
-    = render_card("cds13", "Christian Dior Spring 2013", counter += 1)
-    = render_card("cs10", "Chloé Spring 2010", counter += 1)
-    = render_card("cpf11", "Céline Pre-fall 2011", counter += 1)
+    - add_card(cards_other, "hs09", "Halston Spring 2009", counter += 1)
+    - add_card(cards_other, "ckf12", "Calvin Klein Fall 2012", counter += 1)
+    - add_card(cards_other, "nms13", "Nicole Miller Spring 2013", counter += 1)
+    - add_card(cards_other, "mmmf12", "Maison Martin Margiela Fall 2012", counter += 1)
+    - add_card(cards_other, "lvf10", "Louis Vuitton Fall 2010", counter += 1)
+    - add_card(cards_other, "cdpf12", "Christian Dior Pre-fall 2012", counter += 1)
+    - add_card(cards_other, "cdf12", "Christian Dior Fall 2012", counter += 1)
+    - add_card(cards_other, "cds13", "Christian Dior Spring 2013", counter += 1)
+    - add_card(cards_other, "cs10", "Chloé Spring 2010", counter += 1)
+    - add_card(cards_other, "cpf11", "Céline Pre-fall 2011", counter += 1)
+    - counter = 0
+    - while cards_other.length > 0
+      - counter += 1
+      = render_card('','','') if counter == 4
+      = render_card_from_array(cards_other)
