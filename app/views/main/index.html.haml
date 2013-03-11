@@ -1,0 +1,10 @@
+%section.container
+  .card
+    .front{style: "background-image: url('#{asset_path "cards/front/mkf11.jpg"}')"}
+    .back{style: "background-image: url('#{asset_path "cards/back-mk/Michael Kors Fall 2011.jpg"}')"}
+%section.container
+- (1..5).each do |i|
+  %section.container
+    .card
+      .front{style: "background-image: url('#{asset_path "cards/front/mkf13.jpg"}')"}
+      .back{style: "background-image: url('#{asset_path "cards/back-mk/Michael Kors Fall 2013(#{i}).jpg"}')"}
